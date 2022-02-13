@@ -19,7 +19,7 @@
 | https://github.com/arguellesm/faux/pull/23                          | 0.1.1   | ✓         |
 | <!-- Enlace de DFolchA -->                                          |         |           |
 | <!-- Enlace de JaimeGM96 -->                                        |         |           |
-| [agr8](https://github.com/agr8/Planner-IV/pull/29)                  | 0.0.8   |           |
+| [agr8](https://github.com/agr8/Planner-IV/pull/29)                  | 0.0.8   |   ✓        |
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/46                   | 0.0.7   | ✓         |
 | https://github.com/lentes4k/cAppjon/pull/31                         | 0.1.1   | ✓         |
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/40       | 0.0.8   | ✓         |
