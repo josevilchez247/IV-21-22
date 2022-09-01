@@ -1,6 +1,6 @@
 # Objetivo 0
 
-Añade debajo el enlace al PR en *tu* repositorio, siguiendo las instrucciones en
+Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las instrucciones en
 el guión. Usa la línea con tu nick de GitHub (si lo has proporcionado). Si no lo
 has hecho, primero ponlo en la hoja de equivalencias y a continuación usa la
 línea con tus iniciales.
